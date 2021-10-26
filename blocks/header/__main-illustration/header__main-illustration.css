@@ -1,0 +1,7 @@
+.header__main-illustration {
+  height: 608px; /*?или width: 765px, если мы установим оба, то исказим картинку изменив соотношение сторон*/
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  z-index: 1;
+}
