@@ -2,7 +2,6 @@
   width: 183px;
   height: 35px;
   z-index: 2;
-  fill: #4F4F4F;
 }
 
 .logo_place_footer:hover {
@@ -10,5 +9,4 @@
   transform: scale(1.2);
   transition: opacity 0.1s ease-in;
   transition: transform 0.3s ease-in;
-  fill: white;
 }

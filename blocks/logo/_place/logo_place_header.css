@@ -1,6 +1,5 @@
 .logo_place_header {
   position: absolute;
-  fill: #000;
   width: 183px;
   height: 32px;
   top: 30px;
@@ -9,6 +8,7 @@
 }
 
 .logo_place_header:hover {
-  opacity: 0.7;
+  opacity: 0.9;
   transition: opacity 0.1s ease-in;
 }
+

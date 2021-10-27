@@ -6,11 +6,10 @@
   margin: 0 0 10px 0;
   text-decoration: none;
   z-index: 2;
-  fill: white;
 }
 
 .footer__column-link:hover {
+  opacity: 0.9;
   transform: scale(1.2);
   transition: transform 0.3s ease-in;
-  color: #2f80ed;
 }

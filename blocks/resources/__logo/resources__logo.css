@@ -3,8 +3,6 @@
   height: 38px;
   display: flex;
   justify-content: center;
-  align-items: center;
-  fill: #BDBDBD;
 }
 
 .resources__logo:hover {
@@ -12,5 +10,5 @@
   transform: scale(1.2);
   transition: opacity 0.1s ease-in;
   transition: transform 0.3s ease-in;
-  fill: #2f80ed;
+
 }

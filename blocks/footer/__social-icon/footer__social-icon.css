@@ -1,7 +1,7 @@
 .footer__social-icon {
   fill: white;
-  width="16";
-  height="14";
+  width: 16px;
+  height: 14px;
 }
 
 .footer__column-link:hover .footer__social-icon {
