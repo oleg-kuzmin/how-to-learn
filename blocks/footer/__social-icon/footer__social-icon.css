@@ -1,9 +1,5 @@
 .footer__social-icon {
-  fill: white;
   width: 16px;
   height: 14px;
 }
 
-.footer__column-link:hover .footer__social-icon {
-  fill: #2f80ed;
-}
