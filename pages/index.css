@@ -71,6 +71,7 @@
 @import url('../blocks/footer/__column-links/footer__column-links.css');
 @import url('../blocks/footer/__author/footer__author.css');
 @import url('../blocks/footer/__social-icon/footer__social-icon.css');
+
 @keyframes rotation {
   from {
     transform: rotate(0deg);
@@ -80,6 +81,7 @@
     transform: rotate(360deg);
   }
 }
+
 @font-face {
   src:
   url('../fonts/Inter/Inter-Bold.woff') format('woff'),
@@ -102,4 +104,3 @@
   font-family: 'Inter';
   font-weight: 600;
 }
-
