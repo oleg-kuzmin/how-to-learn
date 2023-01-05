@@ -9,6 +9,7 @@
 * flex
 * multiple background layers via z-index
 * CSS animations using keyframes
+
 **project checked by code reviewer**
 
 > There are brief files and a checklist in the this repository
