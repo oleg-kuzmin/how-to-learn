@@ -1,6 +1,6 @@
 # My first site! :) Educational project how-to-learn (Landing, static layout)
 
-## technologies:
+### technologies:
 * html semantic structure
 * external fonts
 * name of classes by BEM nested
