@@ -5,7 +5,6 @@
 * external fonts
 * name of classes by BEM nested
 * folder and file structure by BEM nested
-* iframe
 * flex
 * multiple background layers via z-index
 * CSS animations using keyframes
