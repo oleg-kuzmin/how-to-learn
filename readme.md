@@ -1,4 +1,5 @@
-# My first site! :) Educational project how-to-learn (Landing, static layout)
+# Educational project: how-to-learn (Landing, static layout)
+My first site! :)
 
 ### technologies:
 * html semantic structure
