@@ -6,10 +6,11 @@
   margin: 0 0 10px 0;
   text-decoration: none;
   z-index: 2;
+  transition: opacity 0.1s ease-in;
+  transition: transform 0.3s ease-in;
 }
 
 .footer__column-link:hover {
   opacity: 0.9;
   transform: scale(1.2);
-  transition: transform 0.3s ease-in;
 }
