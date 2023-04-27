@@ -1,4 +1,4 @@
-# Educational project: how-to-learn (Landing, static layout)
+# Learning project: how-to-learn (Landing, static layout)
 My first site! :)
 
 ### technologies:
