@@ -12,6 +12,4 @@ My first site! :)
 
 **project checked by code reviewer**
 
-> There are brief files and a checklist in the this repository
-
 * [Link to Github Pages](https://oleg-kuzmin.github.io/how-to-learn/)
