@@ -1,15 +1,15 @@
-# Learning project: how-to-learn (Landing, static layout)
-My first site! :)
+# How To Learn (Лендинг)
 
-### technologies:
-* html semantic structure
-* external fonts
-* name of classes by BEM nested
-* folder and file structure by BEM nested
-* flex
-* multiple background layers via z-index
-* CSS animations using keyframes
+Учебный лендинг от Яндекс.
 
-**project checked by code reviewer**
+## Технологии
 
-* [Link to Github Pages](https://oleg-kuzmin.github.io/how-to-learn/)
+Семантическая структура html.
+Структура файлов, наименование классов в стиле BEM.
+Используется Flex.
+Несколько слоев фона.
+CSS анимации.
+
+## Ссылки
+
+- [Github Pages](https://oleg-kuzmin.github.io/how-to-learn/)
