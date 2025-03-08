@@ -8,8 +8,8 @@
 - Структура файлов, наименование классов в стиле BEM.
 - Используется Flex.
 - Несколько слоев фона.
-- CSS анимации.
+- Используются CSS анимации.
 
 ## Ссылки
 
-- [Github Pages](https://oleg-kuzmin.github.io/how-to-learn/)
+- [Github Pages](https://oleg-kuzmin.github.io/how-to-learn)
